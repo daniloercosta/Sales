@@ -1,0 +1,13 @@
+/SalesAPI/.vs
+/SalesAPI/Sales.API/bin
+/SalesAPI/Sales.API/obj/Debug
+/SalesAPI/Sales.Application/bin
+/SalesAPI/Sales.Application/obj/Debug
+/SalesAPI/Sales.Domain/bin/Debug
+/SalesAPI/Sales.Domain/obj/Debug
+/SalesAPI/Sales.Infrastructure/bin/Debug
+/SalesAPI/Sales.Infrastructure/Migrations
+/SalesAPI/Sales.Infrastructure/obj/Debug
+/SalesAPI/Sales.Tests/obj/Debug
+/SalesAPI/Sales.Tests/bin/Debug
+/SalesAPI/Sales.API/obj
